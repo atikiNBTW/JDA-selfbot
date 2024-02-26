@@ -51,11 +51,13 @@ This library is a helpful tool that provides the functionality to create a Disco
 
 ## UserBots and SelfBots
 
-Discord is currently prohibiting creation and usage of automated client accounts (AccountType.CLIENT).
+~Discord is currently prohibiting creation and usage of automated client accounts (AccountType.CLIENT).
 We have officially dropped support for client login as of version **4.2.0**!
-If you need a bot, use a bot account from the [Application Dashboard](https://discord.com/developers/applications).
+If you need a bot, use a bot account from the [Application Dashboard](https://discord.com/developers/applications).~
 
-[Read More](https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-)
+~[Read More](https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-)~
+
+Entirely false btw, this repo was created to bring back support to selfbots in JDA!
 
 ## Creating the JDA Object
 
