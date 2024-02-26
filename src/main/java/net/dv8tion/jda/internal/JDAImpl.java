@@ -326,7 +326,7 @@ public class JDAImpl implements JDA
         }
         if (validateToken)
         {
-            verifyToken();
+//            verifyToken();
             LOG.info("Login Successful!");
         }
 
